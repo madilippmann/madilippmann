@@ -2,10 +2,12 @@
 
 The name's Madi! I'm a Bay Area software enginner looking to join a team of engineers where I can help build meaningful and push myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, vocal performance/opera. 
 
-
-![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=madilippmann&color=DDFFD9&style=for-the-badge)
 ![Email](https://img.shields.io/static/v1?label=Email&message=madi.lippmann@gmail.com&color=7E8AC9&style=for-the-badge)
-![AngelList](https://img.shields.io/static/v1?label=AngelList&message=madilippmann&color=D7907B&style=for-the-badge)
+![LinkedIn](https://img.shields.io/static/v1?endpoint?url=https://www.linkedin.com/in/madilippmann/&label=&message=LinkedIn&color=DDFFD9&style=for-the-badge)
+![AngelList](https://img.shields.io/static/v1?endpoint?url=https://angel.co/u/madi-lippmann&label=&message=AngelList&color=D7907B&style=for-the-badge)
+
+
+<!-- https://img.shields.io/endpoint?url=<URL>&style<STYLE> -->
 <!-- ![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&style=for-the-badge)
 ![Python](https://img.shields.io/static/v1?label=&message=madilippmann&color=#DDFFD9&style=for-the-badge)
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&style=for-the-badge)
