@@ -19,7 +19,7 @@ The name's Madi! I'm a Bay Area software engineer looking to join a team of engi
 ![Python](https://img.shields.io/static/v1?label=&message=Python&color=blue&style=for-the-badge) -->
 
 
-
+<!-- 
 ```
 class Lipp:
 
@@ -44,7 +44,7 @@ class Lipp:
 
 if __name__ == '__main__':
     me = Lipp()
-```
+``` -->
 
 <!--         self.web = 'https://TODO.TODO' -->
 <!--         self.twitter = '@rafnixg' -->
