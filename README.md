@@ -2,7 +2,7 @@
 
 The name's Madi! I'm a Bay Area software engineer looking to join a team of engineers where I can help build meaningful and push myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, vocal performance/opera. 
 
-![Email](https://img.shields.io/static/v1?label=Email&message=madi.lippmann@gmail.com&color=7E8AC9&style=for-the-badge)
+![Email](https://img.shields.io/static/v1?label=Email&message=lippmann.dev@gmail.com&color=7E8AC9&style=for-the-badge)
 ![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=madilippmann&color=DDFFD9&style=for-the-badge)
 ![AngelList](https://img.shields.io/static/v1?label=AngelList&message=madi-lippmann&color=D7907B&style=for-the-badge)
 <!-- 
