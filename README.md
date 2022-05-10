@@ -1,6 +1,6 @@
 ### Hello, GitHub 👋
 
-The name's Madi! I'm a Bay Area software engineer looking to join a team of engineers where I can contribute in building impactful software and challenge myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, vocal performance/opera. 
+The name's Madi! I'm a Bay Area software engineer looking to join a team of engineers where I can contribute in building impactful software and challenge myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, and vocal performance/opera. 
 
 ![Email](https://img.shields.io/static/v1?label=Email&message=lippmann.dev@gmail.com&color=7E8AC9&style=for-the-badge)
 ![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=madilippmann&color=DDFFD9&style=for-the-badge)
