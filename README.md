@@ -1,4 +1,4 @@
-### Hello, GitHub 👋
+### Hey there, GitHub 👋
 
 The name's Madi! I'm a Bay Area software engineer looking to join a team of engineers where I can contribute in building impactful software and challenge myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, and vocal performance/opera. 
 
@@ -51,7 +51,9 @@ if __name__ == '__main__':
 <!--         self.architecture = ['MVC', 'Single-Page Applications'] -->
 
 
-[![Madi's GitHub stats](https://github-readme-stats.vercel.app/api?username=madilippmann&count_private=true&show_icons=true&theme=calm)](https://github.com/madi/github-readme-stats)
+<!-- [![Madi's GitHub stats](https://github-readme-stats.vercel.app/api?username=madilippmann&count_private=true&show_icons=true&theme=calm)](https://github.com/madi/github-readme-stats) -->
+<!-- [![Madi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lippmann)](https://github.com/madilippmann/github-readme-stats) -->
+
 
 <!--
 **madilippmann/madilippmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
