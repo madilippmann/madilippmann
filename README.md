@@ -1,10 +1,14 @@
 ### Hey there, GitHub 👋
 
-The name's Madi! I'm a Bay Area software engineer looking to join a team of engineers where I can contribute in building impactful software and challenge myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, and vocal performance/opera. 
+Classical musician turned software engineer. I have a deep love for building things with an intersection between the structural and the creative. Looking to join a team where I can collaborate alongside others to develop meaningful software. My current stack includes (but is not limited to) Python / Flask, JavaScript / Express, React, Redux, Postgres, Sequelize, SQLAlchemy, and Docker. 
+ 
+<!--
 
+The name's Madi! I'm a Bay Area software engineer looking to join a team of engineers where I can contribute in building impactful software and challenge myself to grow as a developer. Formerly a classical musician and arts administrator with a background in composition, conducting, and vocal performance/opera.
 ![Email](https://img.shields.io/static/v1?label=Email&message=lippmann.dev@gmail.com&color=7E8AC9&style=for-the-badge)
 ![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=madilippmann&color=DDFFD9&style=for-the-badge)
 ![AngelList](https://img.shields.io/static/v1?label=AngelList&message=madi-lippmann&color=D7907B&style=for-the-badge)
+-->
 <!-- 
 ![LinkedIn](https://img.shields.io/static/endpoint?url=https://www.linkedin.com/in/madilippmann/&label=&message=LinkedIn&color=DDFFD9&style=for-the-badge)
 ![AngelList](https://img.shields.io/static/v1?endpoint?url=https://angel.co/u/madi-lippmann&label=&message=AngelList&color=D7907B&style=for-the-badge)
